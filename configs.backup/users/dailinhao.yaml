@@ -1,0 +1,18 @@
+id: dailinhao
+username: dailinhao
+password: $2a$10$oetE6H3hT84IUpni4r5PEu0GyhPBvzmFEkoX1PFTZwU2jejgU7/O2
+email: ""
+role: user
+permissions:
+    config:read: true
+    config:write: true
+    dns:read: true
+    dns:write: true
+    domain:read: true
+    domain:write: true
+    monitor:read: true
+    server:read: true
+    server:write: true
+enabled: true
+created_at: 2026-03-26T09:58:38.4035628+08:00
+updated_at: 2026-03-26T09:58:38.4035628+08:00
